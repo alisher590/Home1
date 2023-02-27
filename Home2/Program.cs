@@ -1,4 +1,4 @@
-﻿// Homework 
+﻿// Homework 2
 Console.Write("Введите первое число:");
 int First_Num = int.Parse(Console.ReadLine() ?? "");
 
