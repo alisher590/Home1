@@ -1,0 +1,15 @@
+/Users/aliser/Desktop/C#home1sem/Home2/bin/Debug/net6.0/Home2
+/Users/aliser/Desktop/C#home1sem/Home2/bin/Debug/net6.0/Home2.deps.json
+/Users/aliser/Desktop/C#home1sem/Home2/bin/Debug/net6.0/Home2.runtimeconfig.json
+/Users/aliser/Desktop/C#home1sem/Home2/bin/Debug/net6.0/Home2.dll
+/Users/aliser/Desktop/C#home1sem/Home2/bin/Debug/net6.0/Home2.pdb
+/Users/aliser/Desktop/C#home1sem/Home2/obj/Debug/net6.0/Home2.csproj.AssemblyReference.cache
+/Users/aliser/Desktop/C#home1sem/Home2/obj/Debug/net6.0/Home2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliser/Desktop/C#home1sem/Home2/obj/Debug/net6.0/Home2.AssemblyInfoInputs.cache
+/Users/aliser/Desktop/C#home1sem/Home2/obj/Debug/net6.0/Home2.AssemblyInfo.cs
+/Users/aliser/Desktop/C#home1sem/Home2/obj/Debug/net6.0/Home2.csproj.CoreCompileInputs.cache
+/Users/aliser/Desktop/C#home1sem/Home2/obj/Debug/net6.0/Home2.dll
+/Users/aliser/Desktop/C#home1sem/Home2/obj/Debug/net6.0/refint/Home2.dll
+/Users/aliser/Desktop/C#home1sem/Home2/obj/Debug/net6.0/Home2.pdb
+/Users/aliser/Desktop/C#home1sem/Home2/obj/Debug/net6.0/Home2.genruntimeconfig.cache
+/Users/aliser/Desktop/C#home1sem/Home2/obj/Debug/net6.0/ref/Home2.dll
